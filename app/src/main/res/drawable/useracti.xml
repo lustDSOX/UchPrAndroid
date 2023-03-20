@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="22dp"
+    android:height="27dp"
+    android:viewportWidth="22"
+    android:viewportHeight="27">
+  <path
+      android:pathData="M10.857,13.428C14.288,13.428 17.071,10.646 17.071,7.214C17.071,3.782 14.288,1 10.857,1C7.425,1 4.643,3.782 4.643,7.214C4.643,10.646 7.425,13.428 10.857,13.428Z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="1.5"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M1,22.071C0.998,21.634 1.096,21.202 1.286,20.809C1.881,19.618 3.559,18.987 4.952,18.702C5.957,18.487 6.975,18.344 8,18.273C9.897,18.107 11.805,18.107 13.702,18.273C14.726,18.345 15.745,18.488 16.749,18.702C18.142,18.987 19.821,19.559 20.416,20.809C20.797,21.611 20.797,22.542 20.416,23.344C19.821,24.594 18.142,25.166 16.749,25.44C15.746,25.663 14.727,25.81 13.702,25.88C12.158,26.011 10.607,26.035 9.059,25.951C8.702,25.951 8.357,25.951 8,25.88C6.978,25.811 5.963,25.664 4.964,25.44C3.559,25.166 1.893,24.594 1.286,23.344C1.097,22.946 0.999,22.511 1,22.071Z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="1.5"
+      android:fillColor="#00000000"
+      android:fillType="evenOdd"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+</vector>
